@@ -1,8 +1,12 @@
 {
-    "name": "dotunj/laratwilio",
+    "name": "kaitoj/laratwilio",
     "description": "A Laravel Package for sending SMS messages with Twilio",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Kaito Jacobson",
+            "email": "kaito.jacobson@gmail.com"
+        },
         {
             "name": "Dotun",
             "email": "dotunjolaosho@gmail.com"
