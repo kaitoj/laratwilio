@@ -6,7 +6,16 @@ This is a Laravel package for sending SMS with Twilio
 Require the package via composer into your project
 
 ```shell
-composer require dotunj/laratwilio
+Add the repositories object to your composer.json file then run composer update.
+
+"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kaitoj/laratwilio.git"
+        }
+    ],
+    
+composer update
 ```
 
 ### Step Two - Publishing Configurations
